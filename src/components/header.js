@@ -25,31 +25,43 @@ const data = {
     {
       id: 0,
       navItemType: "Link",
-      href: "#!",
-      text: "Products",
+      href: "https://designmain.gatsbyjs.io/",
+      text: "Home",
     },
     {
       id: 1,
       navItemType: "Link",
-      href: "#!",
-      text: "Pricing",
+      href: "team",
+      text: "Team",
     },
     {
       id: 2,
       navItemType: "Link",
-      href: "#!",
-      text: "About",
+      href: "About",
+      text: "Services",
     },
     {
       id: 3,
       navItemType: "Link",
       href: "#!",
+      text: "Industries",
+    },
+        {
+      id: 4,
+      navItemType: "Link",
+      href: "https://blog.artscube.biz/",
       text: "Blog",
     },
   ],
   cta: {
+    id: 0,
     href: "#!",
-    text: "Sign Up",
+    text: "Contact Us",
+  },
+    cta: {
+    id: 1,
+    href: "#!",
+    text: "Client Support",
   },
 }
 
