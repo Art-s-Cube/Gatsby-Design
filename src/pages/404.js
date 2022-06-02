@@ -16,7 +16,7 @@ export default function NotFound() {
             <Heading as="h1">Page not found</Heading>
             <Flex variant="column" gap={0}>
               <Text variant="lead" className={styles.text}>
-                Sorry! We couldn’t find the page you were looking for.
+                Sorry! We couldnt find the page you were looking.
               </Text>
               <Link to="/" className={styles.link}>
                 <span>Back to home</span>
